@@ -1,0 +1,9 @@
+venv/
+PX4/build/
+PX4/PX4-Autopilot/
+*.log
+*.csv
+*.png
+*.jpg
+*.zip
+*.pyc
